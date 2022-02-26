@@ -1,0 +1,2 @@
+set(rospy_tutorials_MESSAGE_FILES "/media/psf/Home/Developer/ROS/learning_ws/src/ros_tutorials/rospy_tutorials/msg/Floats.msg;/media/psf/Home/Developer/ROS/learning_ws/src/ros_tutorials/rospy_tutorials/msg/HeaderString.msg")
+set(rospy_tutorials_SERVICE_FILES "/media/psf/Home/Developer/ROS/learning_ws/src/ros_tutorials/rospy_tutorials/srv/AddTwoInts.srv;/media/psf/Home/Developer/ROS/learning_ws/src/ros_tutorials/rospy_tutorials/srv/BadTwoInts.srv")

@@ -1,0 +1,2 @@
+beginner_tutorials:ros_tutorials/ros_tutorials:ros_tutorials/roscpp_tutorials:ros_tutorials/rospy_tutorials:ros_tutorials/turtlesim
+-DCATKIN_DEVEL_PREFIX=/media/psf/Home/Developer/ROS/learning_ws/devel -DCMAKE_INSTALL_PREFIX=/media/psf/Home/Developer/ROS/learning_ws/install -G Unix Makefiles
