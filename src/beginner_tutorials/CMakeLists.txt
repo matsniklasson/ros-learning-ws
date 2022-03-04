@@ -160,8 +160,9 @@ include_directories(
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
  catkin_install_python(PROGRAMS
-   scripts/talker.py
-   scripts/listener.py
+   scripts/001_talker_listener/talker.py
+   scripts/001_talker_listener/listener.py
+   scripts/002_service_client/add_two_ints_server.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
