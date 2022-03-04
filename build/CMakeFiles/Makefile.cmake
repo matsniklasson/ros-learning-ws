@@ -37,6 +37,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/media/psf/Home/Developer/ROS/learning_ws/src/CMakeLists.txt"
   "/media/psf/Home/Developer/ROS/learning_ws/src/beginner_tutorials/CMakeLists.txt"
   "/media/psf/Home/Developer/ROS/learning_ws/src/beginner_tutorials/package.xml"
+  "/media/psf/Home/Developer/ROS/learning_ws/src/beginner_tutorials/scripts/listener.py"
+  "/media/psf/Home/Developer/ROS/learning_ws/src/beginner_tutorials/scripts/talker.py"
   "/media/psf/Home/Developer/ROS/learning_ws/src/ros_tutorials/ros_tutorials/CMakeLists.txt"
   "/media/psf/Home/Developer/ROS/learning_ws/src/ros_tutorials/ros_tutorials/package.xml"
   "/media/psf/Home/Developer/ROS/learning_ws/src/ros_tutorials/roscpp_tutorials/CMakeLists.txt"
