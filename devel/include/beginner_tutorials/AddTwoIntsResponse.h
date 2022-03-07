@@ -147,7 +147,6 @@ struct Definition< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator>
   static const char* value()
   {
     return "int64 sum\n"
-"\n"
 ;
   }
 

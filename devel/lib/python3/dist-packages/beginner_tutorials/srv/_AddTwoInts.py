@@ -131,7 +131,6 @@ class AddTwoIntsResponse(genpy.Message):
   _type = "beginner_tutorials/AddTwoIntsResponse"
   _has_header = False  # flag to mark the presence of a Header object
   _full_text = """int64 sum
-
 """
   __slots__ = ['sum']
   _slot_types = ['int64']

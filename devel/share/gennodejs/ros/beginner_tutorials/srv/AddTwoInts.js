@@ -158,7 +158,6 @@ class AddTwoIntsResponse {
     return `
     int64 sum
     
-    
     `;
   }
 

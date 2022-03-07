@@ -182,7 +182,6 @@
 int64 b
 ---
 int64 sum
-
 ")
 
 (setf (get beginner_tutorials::AddTwoIntsResponse :md5sum-) "6a2e34150c00229791cc89ff309fff21")
@@ -192,7 +191,6 @@ int64 sum
 int64 b
 ---
 int64 sum
-
 ")
 
 
